@@ -24,7 +24,7 @@ This Chinese translation version is translated by X-hung, Everybody can edit it 
 
 ## VS Code 测试版 Insider Version of VS Code
 
-VS Code团队使用内测版本来测试最新版的功能以及修复Bug。您可以在[这里](https://code.visualstudio.com/insiders)下载相同的测试版
+VS Code团队使用内测版本来测试最新版的功能以及修复Bug。您可以在[这里](https://code.visualstudio.com/insiders)下载相同的测试版
 The Visual Studio Code team uses the Insiders version to test the latest features and bug fixes of VS Code. You can use this same version by [downloading here](https://code.visualstudio.com/insiders).
 
 * 对于早期使用者 - 测试版提供最新更改的代码，这将会导致一些偶然的Build失败。
