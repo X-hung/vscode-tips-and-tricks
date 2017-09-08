@@ -144,7 +144,7 @@ Workspace specific files are in `.vscode`. For example, `tasks.json` for the Tas
 快速跳转至项目中的错误和警告行。
 Quickly jump to errors and warnings in the project.
 
-使用<kbd>f8</kbd> 或者 <kbd>shift+f8</kbd>在错误行中来回浏览。
+使用<kbd>f8</kbd> 或者 <kbd>shift+f8</kbd>在错误行中来回浏览。
 Cycle through errors with <kbd>f8</kbd> or <kbd>shift+f8</kbd>
 
 ![errors and warnings](/media/Errors_Warnings.gif)
@@ -256,7 +256,7 @@ Open `settings.json`
 "editor.fontLigatures": true
 ```
 
-> **提示:** 您可能需要安装支持连字功能的字体。 [FiraCode](https://github.com/tonsky/FiraCode) 字体在VS Code团队中是比较受欢迎的。
+> **提示:** 您可能需要安装支持连字功能的字体。 [FiraCode](https://github.com/tonsky/FiraCode) 字体在VS Code团队中是比较受欢迎的。
 > **Tip:** You will need to have a font installed that supports font ligatures. [FiraCode](https://github.com/tonsky/FiraCode) is a popular font on the VS Code team.
 
 ![font ligatures](/media/font-ligatures-annotated.png)
@@ -553,7 +553,7 @@ Create language associations for files that aren't detected accurately (for exam
 }
 ```
 
-# 编辑技巧 Editing hacks
+# 编辑技巧 Editing hacks
 
 以下是常见编辑代码的功能选择。如果您觉得这些组合快捷键用得不舒服，可以考虑安装一个[Keymap extension](https://marketplace.visualstudio.com/search?target=VSCode&category=Keymaps&sortBy=Downloads)。
 Here are a selection of common features for editing code. If the keyboard shortcuts aren't comfortable for you, consider installing a [Keymap extension](https://marketplace.visualstudio.com/search?target=VSCode&category=Keymaps&sortBy=Downloads) for your old editor.
@@ -855,12 +855,12 @@ Git integration comes with VS Code "in-the-box". You can install other SCM provi
 
 ## Diffs
 
-点击侧边栏的**源代码管理**按钮，接着选择文件来diff。
+点击侧边栏的**源代码管理**按钮，接着选择文件来diff。
 Click the Source Control button in the Activity Bar then select the file to diff.
 
 ![git icon](/media/git_icon.png)
 
-**并排窗口 Side by side**
+**并排窗口 Side by side**
 
 默认的是并排Diff。
 Default is side by side diff.
