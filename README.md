@@ -1,6 +1,6 @@
 # [VS Code](https://code.visualstudio.com) Tips and Tricks 官方指南 - 中文翻译版
 
-注：本文由X-hung个人翻译，仅供那些想要使用VSCode但英文却不好或者不想读英文参考的朋友。任何人可自由编辑此文档。版权归Visual Studio Code官方所有。
+注：本文由X-hung个人翻译，仅供那些想要使用VSCode但英文却不好或者不想读英文参考的朋友。任何人可自由编辑此文档。版权归Visual Studio Code官方所有。
 This Chinese translation version is translated by X-hung, Everybody can edit it if you have better suggestions. Thanks.
 
 # 目录 Table of Contents
@@ -22,7 +22,7 @@ This Chinese translation version is translated by X-hung, Everybody can edit it 
 
 # 基础 Basics
 
-## VS Code 测试版 Insider Version of VS Code
+## VS Code 测试版 Insider Version of VS Code
 
 VS Code团队使用内测版本来测试最新版的功能以及修复Bug。您可以在[这里](https://code.visualstudio.com/insiders)下载相同的测试版
 The Visual Studio Code team uses the Insiders version to test the latest features and bug fixes of VS Code. You can use this same version by [downloading here](https://code.visualstudio.com/insiders).
@@ -76,14 +76,14 @@ Quickly open files.
 
 ![Quick Open](/media/QuickOpen.gif)
 
-> **提示：** 输入“？”来查看帮助建议。
+> **提示：** 输入“？”来查看帮助建议。
 > **Tip:** Type "?" to view help suggestions.
 
 ### 在最近打开的文件中寻找 Navigate between recently opened files
 重复使用**快速打开**快捷键在最近打开的文件之间快速循环浏览。
 Repeat the **Quick Open** keyboard shortcut to cycle quickly between recently opened files.
 
-### 通过“快速打开”打开多个文件 Open multiple files from Quick Open
+### 通过“快速打开”打开多个文件 Open multiple files from Quick Open
 您可以使用**快速打开**中的右方向键来快速打开多个文件。这将在后台打开当前选定的文件，此时您可以使用**快速打开**继续选择文件。
 You can open multiple files from **Quick Open** by pressing the Right arrow key. This will open the currently selected file in the background and you can continue selecting files from **Quick Open**.
 
@@ -97,14 +97,14 @@ You can open multiple files from **Quick Open** by pressing the Right arrow key.
 > Mac系统: 往下看.
 > Mac: see below.
 
-打开**命令面板** (<kbd>F1</kbd>) 输入“shell command” 敲击回车键执行 **Shell Command: Install 'code' command in PATH**.
+打开**命令面板** (<kbd>F1</kbd>) 输入“shell command” 敲击回车键执行 **Shell Command: Install 'code' command in PATH**.
 Open the **Command Palette** (<kbd>F1</kbd>) and type "shell command". Hit enter to execute **Shell Command: Install 'code' command in PATH**.
 
 ![shell command](/media/setup_shell-command.png)
 
 
 ```bash
-# 在当前目录打开代码 open code with current directory
+# 在当前目录打开代码 open code with current directory
 code .
 
 # 在最近使用的代码窗口打开当前目录 open the current directory in the most recently used code window
@@ -266,7 +266,7 @@ Open `settings.json`
 ```json
 "files.autoSave": "afterDelay"
 ```
-您还可以使用顶级菜单中的**文件**> **自动保存**打开自动保存
+您还可以使用顶级菜单中的**文件**> **自动保存**打开自动保存
 You can also toggle Auto Save from the top-level menu with the **File** > **Auto Save**.
 
 *保存格式 Format on save*
@@ -351,7 +351,7 @@ Enabled by default for many files. Create your own schema and validation in `set
 
 
 或者在您的工作区中定义的模式
-or for a schema defined in your workspace
+or for a schema defined in your workspace
 
 ```json
 "json.schemas": [
@@ -450,7 +450,7 @@ Open `settings.json` with <kbd>cmd+,</kbd>
 ```json
 "files.autoSave": "afterDelay"
 ```
-您还可以使用顶级菜单中的**文件**> **自动保存**打开自动保存
+您还可以使用顶级菜单中的**文件**> **自动保存**打开自动保存
 You can also toggle Auto Save from the top-level menu with the **File** > **Auto Save**.
 
 ## 打开侧边栏 Toggle Sidebar
@@ -850,7 +850,7 @@ See more details in [Creating your own Snippets](https://code.visualstudio.com/d
 
 # Git集成 Git Integration
 
-Git集成带有VS Code中的“in-the-box”。您可以从扩展商店中安装其他SCM提供程序。本节仅介绍Git集成。其他的SCM提供了更多的UI和手势。
+Git集成带有VS Code中的“in-the-box”。您可以从扩展商店中安装其他SCM提供程序。本节仅介绍Git集成。其他的SCM提供了更多的UI和手势。
 Git integration comes with VS Code "in-the-box". You can install other SCM provider from the extension Marketplace. This section describes the Git integration but much of the UI and gestures are shared by other SCM providers.
 
 ## Diffs
